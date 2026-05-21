@@ -1,0 +1,11 @@
+.env
+
+node_modules/
+
+*.xlsx
+*.xls
+*.db
+*.sqlite
+
+.DS_Store
+Thumbs.db
